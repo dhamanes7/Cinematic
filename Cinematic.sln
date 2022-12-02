@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cinematic", "Cinematic\Cine
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CinematicTest", "CinematicTest\CinematicTest.csproj", "{6E75DD0F-05A6-4998-89D5-9A02258AFEB5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CinematicLogic", "CinematicLogic\CinematicLogic.csproj", "{5D623B08-8384-4173-A463-B7FDD5868F44}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{6E75DD0F-05A6-4998-89D5-9A02258AFEB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6E75DD0F-05A6-4998-89D5-9A02258AFEB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6E75DD0F-05A6-4998-89D5-9A02258AFEB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D623B08-8384-4173-A463-B7FDD5868F44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D623B08-8384-4173-A463-B7FDD5868F44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D623B08-8384-4173-A463-B7FDD5868F44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D623B08-8384-4173-A463-B7FDD5868F44}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

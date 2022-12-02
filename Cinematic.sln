@@ -5,6 +5,8 @@ VisualStudioVersion = 25.0.1705.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cinematic", "Cinematic\Cinematic.csproj", "{31451464-F874-4B71-A303-64F4C7F0BF71}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CinematicTest", "CinematicTest\CinematicTest.csproj", "{6E75DD0F-05A6-4998-89D5-9A02258AFEB5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{31451464-F874-4B71-A303-64F4C7F0BF71}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{31451464-F874-4B71-A303-64F4C7F0BF71}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{31451464-F874-4B71-A303-64F4C7F0BF71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E75DD0F-05A6-4998-89D5-9A02258AFEB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E75DD0F-05A6-4998-89D5-9A02258AFEB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E75DD0F-05A6-4998-89D5-9A02258AFEB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E75DD0F-05A6-4998-89D5-9A02258AFEB5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,4 +1,5 @@
 ﻿<Properties StartupConfiguration="{31451464-F874-4B71-A303-64F4C7F0BF71}|Default">
-  <MonoDevelop.Ide.ItemProperties.Cinematic FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Cinematic PreferredExecutionTarget="/Applications/Safari.app" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.CinematicTest FirstBuild="True" />
   <MultiItemStartupConfigurations />
 </Properties>

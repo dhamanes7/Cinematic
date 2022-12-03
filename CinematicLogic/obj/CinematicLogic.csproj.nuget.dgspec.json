@@ -1,27 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "/Users/shubhamdhamane/Documents/cambrian/sem2/adv web/Final_project/Cinematic/CinematicLogic/CinematicLogic.csproj": {}
+    "/Users/gurpreetkaur/Documents/WEBSERVICES_API/Cinematic/CinematicLogic/CinematicLogic.csproj": {}
   },
   "projects": {
-    "/Users/shubhamdhamane/Documents/cambrian/sem2/adv web/Final_project/Cinematic/CinematicLogic/CinematicLogic.csproj": {
+    "/Users/gurpreetkaur/Documents/WEBSERVICES_API/Cinematic/CinematicLogic/CinematicLogic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/shubhamdhamane/Documents/cambrian/sem2/adv web/Final_project/Cinematic/CinematicLogic/CinematicLogic.csproj",
+        "projectUniqueName": "/Users/gurpreetkaur/Documents/WEBSERVICES_API/Cinematic/CinematicLogic/CinematicLogic.csproj",
         "projectName": "CinematicLogic",
-        "projectPath": "/Users/shubhamdhamane/Documents/cambrian/sem2/adv web/Final_project/Cinematic/CinematicLogic/CinematicLogic.csproj",
-        "packagesPath": "/Users/shubhamdhamane/.nuget/packages/",
-        "outputPath": "/Users/shubhamdhamane/Documents/cambrian/sem2/adv web/Final_project/Cinematic/CinematicLogic/obj/",
+        "projectPath": "/Users/gurpreetkaur/Documents/WEBSERVICES_API/Cinematic/CinematicLogic/CinematicLogic.csproj",
+        "packagesPath": "/Users/gurpreetkaur/.nuget/packages/",
+        "outputPath": "/Users/gurpreetkaur/Documents/WEBSERVICES_API/Cinematic/CinematicLogic/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/shubhamdhamane/.nuget/NuGet/NuGet.Config"
+          "/Users/gurpreetkaur/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
           "/usr/local/share/dotnet/library-packs": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dist.nuget.org/win-x86-commandline/latest/nuget.exe": {}
         },
         "frameworks": {
           "net7.0": {

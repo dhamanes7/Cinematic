@@ -1,6 +1,41 @@
 ﻿<Properties StartupConfiguration="{31451464-F874-4B71-A303-64F4C7F0BF71}|Default">
-  <MonoDevelop.Ide.ItemProperties.Cinematic PreferredExecutionTarget="/Applications/Safari.app" FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.CinematicTest FirstBuild="True" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.CinematicLogic FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Cinematic/Controllers/CinematicApiController.cs">
+    <Files>
+      <File FileName="Cinematic/.gitignore" />
+      <File FileName="CinematicLogic/Class1.cs" />
+      <File FileName="Cinematic/WeatherForecast.cs" />
+      <File FileName="Cinematic/Program.cs" />
+      <File FileName="CinematicTest/UnitTest1.cs" />
+      <File FileName="CinematicTest/Usings.cs" />
+      <File FileName="CinematicLogic/CinematicModel.cs" />
+      <File FileName="Cinematic/Controllers/CinematicApiController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Cinematic" expanded="True">
+            <Node name="Cinematic" expanded="True">
+              <Node name="ClientApp" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="wwwroot" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+            <Node name="CinematicLogic" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+            </Node>
+            <Node name="CinematicTest" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CinematicTest FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Cinematic PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>

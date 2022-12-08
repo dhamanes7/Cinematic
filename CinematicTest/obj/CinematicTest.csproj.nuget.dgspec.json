@@ -1,28 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/Users/gurpreetkaur/Documents/WEBSERVICES_API/Cinematic/CinematicTest/CinematicTest.csproj": {}
+    "/Users/shubhamdhamane/Documents/cambrian/sem2/adv web/Final_project/Cinematic/CinematicTest/CinematicTest.csproj": {}
   },
   "projects": {
-    "/Users/gurpreetkaur/Documents/WEBSERVICES_API/Cinematic/CinematicTest/CinematicTest.csproj": {
+    "/Users/shubhamdhamane/Documents/cambrian/sem2/adv web/Final_project/Cinematic/CinematicTest/CinematicTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/gurpreetkaur/Documents/WEBSERVICES_API/Cinematic/CinematicTest/CinematicTest.csproj",
+        "projectUniqueName": "/Users/shubhamdhamane/Documents/cambrian/sem2/adv web/Final_project/Cinematic/CinematicTest/CinematicTest.csproj",
         "projectName": "CinematicTest",
-        "projectPath": "/Users/gurpreetkaur/Documents/WEBSERVICES_API/Cinematic/CinematicTest/CinematicTest.csproj",
-        "packagesPath": "/Users/gurpreetkaur/.nuget/packages/",
-        "outputPath": "/Users/gurpreetkaur/Documents/WEBSERVICES_API/Cinematic/CinematicTest/obj/",
+        "projectPath": "/Users/shubhamdhamane/Documents/cambrian/sem2/adv web/Final_project/Cinematic/CinematicTest/CinematicTest.csproj",
+        "packagesPath": "/Users/shubhamdhamane/.nuget/packages/",
+        "outputPath": "/Users/shubhamdhamane/Documents/cambrian/sem2/adv web/Final_project/Cinematic/CinematicTest/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/gurpreetkaur/.nuget/NuGet/NuGet.Config"
+          "/Users/shubhamdhamane/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
           "/usr/local/share/dotnet/library-packs": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://dist.nuget.org/win-x86-commandline/latest/nuget.exe": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {

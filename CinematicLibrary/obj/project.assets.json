@@ -8,26 +8,25 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\anton\\.nuget\\packages\\": {}
+    "/Users/shubhamdhamane/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\anton\\OneDrive\\Documents\\SD\\Cinematic\\CinematicLibrary\\CinematicLibrary.csproj",
+      "projectUniqueName": "/Users/shubhamdhamane/Documents/cambrian/se2/CinematicLibrary/CinematicLibrary.csproj",
       "projectName": "CinematicLibrary",
-      "projectPath": "C:\\Users\\anton\\OneDrive\\Documents\\SD\\Cinematic\\CinematicLibrary\\CinematicLibrary.csproj",
-      "packagesPath": "C:\\Users\\anton\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\anton\\OneDrive\\Documents\\SD\\Cinematic\\CinematicLibrary\\obj\\",
+      "projectPath": "/Users/shubhamdhamane/Documents/cambrian/se2/CinematicLibrary/CinematicLibrary.csproj",
+      "packagesPath": "/Users/shubhamdhamane/.nuget/packages/",
+      "outputPath": "/Users/shubhamdhamane/Documents/cambrian/se2/CinematicLibrary/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\anton\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/shubhamdhamane/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "/usr/local/share/dotnet/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -61,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.100/RuntimeIdentifierGraph.json"
       }
     }
   }

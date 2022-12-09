@@ -1,19 +1,17 @@
 ﻿<Properties StartupConfiguration="{31451464-F874-4B71-A303-64F4C7F0BF71}|Default">
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Cinematic/Controllers/CinematicApiController.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Cinematic/View/Register.cshtml">
     <Files>
       <File FileName="Cinematic/.gitignore" />
-      <File FileName="CinematicLogic/Class1.cs" Line="1" Column="1" />
+      <File FileName="CinematicLogic/Class1.cs" />
       <File FileName="Cinematic/Program.cs" />
-      <File FileName="CinematicTest/UnitTest1.cs" Line="1" Column="1" />
+      <File FileName="CinematicTest/UnitTest1.cs" />
       <File FileName="CinematicTest/Usings.cs" />
-      <File FileName="CinematicLogic/CinematicModel.cs" Line="1" Column="1" />
+      <File FileName="CinematicLogic/CinematicModel.cs" />
       <File FileName="Cinematic/Controllers/CinematicApiController.cs" Line="1" Column="1" />
       <File FileName="Cinematic/Pages/_ViewImports.cshtml" Line="1" Column="1" />
-      <File FileName="Cinematic/Pages/Error.cshtml" Line="1" Column="1" />
+      <File FileName="Cinematic/Pages/Error.cshtml" />
       <File FileName="Cinematic/ClientApp/src/app/counter/counter.component.ts" />
       <File FileName="Cinematic/ClientApp/src/app/counter/counter.component.html" />
       <File FileName="Cinematic/ClientApp/src/app/home/home.component.html" />
@@ -24,46 +22,38 @@
       <File FileName="Cinematic/ClientApp/src/app/app.component.ts" />
       <File FileName="Cinematic/ClientApp/src/app/app.module.ts" />
       <File FileName="Cinematic/ClientApp/src/app/app.server.module.ts" />
-      <File FileName="Cinematic/ClientApp/src/index.html" Line="2" Column="17" />
-      <File FileName="Cinematic/ClientApp/src/main.ts" Line="1" Column="1" />
-      <File FileName="Cinematic/ClientApp/src/polyfills.ts" Line="1" Column="1" />
-      <File FileName="Cinematic/ClientApp/src/styles.css" Line="1" Column="1" />
-      <File FileName="Cinematic/ClientApp/src/test.ts" Line="1" Column="1" />
-      <File FileName="Cinematic/ClientApp/.browserslistrc" Line="1" Column="1" />
-      <File FileName="Cinematic/ClientApp/.editorconfig" Line="1" Column="1" />
+      <File FileName="Cinematic/ClientApp/src/main.ts" />
+      <File FileName="Cinematic/ClientApp/src/polyfills.ts" />
+      <File FileName="Cinematic/ClientApp/src/styles.css" />
+      <File FileName="Cinematic/ClientApp/src/test.ts" />
+      <File FileName="Cinematic/ClientApp/.browserslistrc" />
+      <File FileName="Cinematic/ClientApp/.editorconfig" />
       <File FileName="Cinematic/ClientApp/.gitignore" />
-      <File FileName="Cinematic/ClientApp/angular.json" Line="1" Column="1" />
-      <File FileName="Cinematic/Pages/Error.cshtml.cs" Line="1" Column="1" />
+      <File FileName="Cinematic/ClientApp/angular.json" />
+      <File FileName="Cinematic/Pages/Error.cshtml.cs" />
       <File FileName="Cinematic/Properties/launchSettings.json" Line="1" Column="1" />
       <File FileName="Cinematic/appsettings.json" />
       <File FileName="Cinematic/appsettings.Development.json" />
-      <File FileName="Cinematic/ClientApp/aspnetcore-https.js" Line="1" Column="1" />
-      <File FileName="Cinematic/ClientApp/karma.conf.js" Line="1" Column="1" />
-      <File FileName="Cinematic/ClientApp/package-lock.json" Line="1" Column="1" />
-      <File FileName="Cinematic/ClientApp/proxy.conf.js" Line="1" Column="1" />
-      <File FileName="Cinematic/ClientApp/README.md" Line="1" Column="1" />
+      <File FileName="Cinematic/ClientApp/aspnetcore-https.js" />
+      <File FileName="Cinematic/ClientApp/karma.conf.js" />
+      <File FileName="Cinematic/ClientApp/package-lock.json" />
+      <File FileName="Cinematic/ClientApp/proxy.conf.js" />
+      <File FileName="Cinematic/ClientApp/README.md" />
       <File FileName="Cinematic/Models/Movie.cs" Line="1" Column="1" />
+      <File FileName="Cinematic/View/Register.cshtml" Line="28" Column="11" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Cinematic" expanded="True">
             <Node name="Cinematic" expanded="True">
-              <Node name="ClientApp" expanded="True">
-                <Node name=".angular" expanded="True">
-                  <Node name="cache" expanded="True" />
-                </Node>
-                <Node name="src" expanded="True" />
-                <Node name="package.json" expanded="True" />
-                <Node name="tsconfig.json" expanded="True" />
-              </Node>
-              <Node name="Controllers" expanded="True">
-                <Node name="CinematicApiController.cs" selected="True" />
-              </Node>
+              <Node name="Controllers" expanded="True" />
               <Node name="Models" expanded="True" />
               <Node name="Pages" expanded="True" />
               <Node name="Properties" expanded="True" />
-              <Node name="View" expanded="True" />
+              <Node name="View" expanded="True">
+                <Node name="Register.cshtml" selected="True" />
+              </Node>
               <Node name="wwwroot" expanded="True" />
               <Node name="appsettings.json" expanded="True" />
             </Node>
@@ -76,9 +66,11 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.CinematicTest FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.CinematicLogic FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.Cinematic PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.CinematicTest FirstBuild="True" />
 </Properties>

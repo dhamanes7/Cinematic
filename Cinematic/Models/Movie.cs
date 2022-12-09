@@ -8,7 +8,7 @@ namespace Cinematic.Models
         public string Id { get; set; }
         public string? name { get; set; }
         public string? releaseDate { get; set; }
-        public PosterImage? posterImage { get; set; }s
+        public PosterImage? posterImage { get; set; }
 
     }
 

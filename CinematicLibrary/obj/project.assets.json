@@ -8,27 +8,26 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/Users/gurpreetkaur/.nuget/packages/": {}
+    "/Users/shubhamdhamane/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/gurpreetkaur/Documents/WEBSERVICES_API/Cinematic/CinematicLibrary/CinematicLibrary.csproj",
+      "projectUniqueName": "/Users/shubhamdhamane/Documents/cambrian/se2/CinematicLibrary/CinematicLibrary.csproj",
       "projectName": "CinematicLibrary",
-      "projectPath": "/Users/gurpreetkaur/Documents/WEBSERVICES_API/Cinematic/CinematicLibrary/CinematicLibrary.csproj",
-      "packagesPath": "/Users/gurpreetkaur/.nuget/packages/",
-      "outputPath": "/Users/gurpreetkaur/Documents/WEBSERVICES_API/Cinematic/CinematicLibrary/obj/",
+      "projectPath": "/Users/shubhamdhamane/Documents/cambrian/se2/CinematicLibrary/CinematicLibrary.csproj",
+      "packagesPath": "/Users/shubhamdhamane/.nuget/packages/",
+      "outputPath": "/Users/shubhamdhamane/Documents/cambrian/se2/CinematicLibrary/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/gurpreetkaur/.nuget/NuGet/NuGet.Config"
+        "/Users/shubhamdhamane/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
         "/usr/local/share/dotnet/library-packs": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://dist.nuget.org/win-x86-commandline/latest/nuget.exe": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {

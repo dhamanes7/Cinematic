@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:44472",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "/Users/gurpreetkaur/Documents/WEBSERVICES_API/Cinematic/Cinematic/ClientApp/",
+"MaxTimeoutInSeconds": "120"
+}
+}

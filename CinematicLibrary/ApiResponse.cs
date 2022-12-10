@@ -1,7 +1,7 @@
 ﻿
 using System.ComponentModel.DataAnnotations;
 
-namespace movie_list.ApiClient
+namespace Cinematic.ApiClient
 {
     public class Response<T>
     {

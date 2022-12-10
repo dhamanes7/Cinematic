@@ -1,7 +1,7 @@
 ﻿using Microsoft.Extensions.Configuration;
 using Newtonsoft.Json;
 
-namespace movie_list.ApiClient
+namespace Cinematic.ApiClient
 {
     public class MovieApiClient<T>
     {

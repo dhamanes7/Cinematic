@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "Cinematic/1.0.0": {
+      "CinematicLibrary/1.0.0": {
         "dependencies": {
           "MSTest.TestFramework": "3.0.0",
           "Microsoft.Extensions.Configuration": "7.0.0",
@@ -14,7 +14,7 @@
           "Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions": "14.0.0.0"
         },
         "runtime": {
-          "Cinematic.dll": {}
+          "CinematicLibrary.dll": {}
         }
       },
       "Microsoft.Extensions.Configuration/7.0.0": {
@@ -120,7 +120,7 @@
     }
   },
   "libraries": {
-    "Cinematic/1.0.0": {
+    "CinematicLibrary/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

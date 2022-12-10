@@ -1,0 +1,15 @@
+C:\Users\anton\OneDrive\Desktop\Shubham\Cinematic\CinematicLibrary\bin\Debug\net6.0\CinematicLibrary.deps.json
+C:\Users\anton\OneDrive\Desktop\Shubham\Cinematic\CinematicLibrary\bin\Debug\net6.0\CinematicLibrary.dll
+C:\Users\anton\OneDrive\Desktop\Shubham\Cinematic\CinematicLibrary\bin\Debug\net6.0\CinematicLibrary.pdb
+C:\Users\anton\OneDrive\Desktop\Shubham\Cinematic\CinematicLibrary\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\anton\OneDrive\Desktop\Shubham\Cinematic\CinematicLibrary\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\anton\OneDrive\Desktop\Shubham\Cinematic\CinematicLibrary\obj\Debug\net6.0\CinematicLibrary.csproj.AssemblyReference.cache
+C:\Users\anton\OneDrive\Desktop\Shubham\Cinematic\CinematicLibrary\obj\Debug\net6.0\CinematicLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\OneDrive\Desktop\Shubham\Cinematic\CinematicLibrary\obj\Debug\net6.0\CinematicLibrary.AssemblyInfoInputs.cache
+C:\Users\anton\OneDrive\Desktop\Shubham\Cinematic\CinematicLibrary\obj\Debug\net6.0\CinematicLibrary.AssemblyInfo.cs
+C:\Users\anton\OneDrive\Desktop\Shubham\Cinematic\CinematicLibrary\obj\Debug\net6.0\CinematicLibrary.csproj.CoreCompileInputs.cache
+C:\Users\anton\OneDrive\Desktop\Shubham\Cinematic\CinematicLibrary\obj\Debug\net6.0\CinematicLibrary.csproj.CopyComplete
+C:\Users\anton\OneDrive\Desktop\Shubham\Cinematic\CinematicLibrary\obj\Debug\net6.0\CinematicLibrary.dll
+C:\Users\anton\OneDrive\Desktop\Shubham\Cinematic\CinematicLibrary\obj\Debug\net6.0\refint\CinematicLibrary.dll
+C:\Users\anton\OneDrive\Desktop\Shubham\Cinematic\CinematicLibrary\obj\Debug\net6.0\CinematicLibrary.pdb
+C:\Users\anton\OneDrive\Desktop\Shubham\Cinematic\CinematicLibrary\obj\Debug\net6.0\ref\CinematicLibrary.dll

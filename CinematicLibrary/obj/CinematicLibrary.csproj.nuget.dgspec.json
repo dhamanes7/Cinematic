@@ -1,26 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/Users/shubhamdhamane/Documents/cambrian/se2/CinematicLibrary/CinematicLibrary.csproj": {}
+    "C:\\Users\\anton\\OneDrive\\Desktop\\Shubham\\Cinematic\\CinematicLibrary\\CinematicLibrary.csproj": {}
   },
   "projects": {
-    "/Users/shubhamdhamane/Documents/cambrian/se2/CinematicLibrary/CinematicLibrary.csproj": {
+    "C:\\Users\\anton\\OneDrive\\Desktop\\Shubham\\Cinematic\\CinematicLibrary\\CinematicLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/shubhamdhamane/Documents/cambrian/se2/CinematicLibrary/CinematicLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\anton\\OneDrive\\Desktop\\Shubham\\Cinematic\\CinematicLibrary\\CinematicLibrary.csproj",
         "projectName": "CinematicLibrary",
-        "projectPath": "/Users/shubhamdhamane/Documents/cambrian/se2/CinematicLibrary/CinematicLibrary.csproj",
-        "packagesPath": "/Users/shubhamdhamane/.nuget/packages/",
-        "outputPath": "/Users/shubhamdhamane/Documents/cambrian/se2/CinematicLibrary/obj/",
+        "projectPath": "C:\\Users\\anton\\OneDrive\\Desktop\\Shubham\\Cinematic\\CinematicLibrary\\CinematicLibrary.csproj",
+        "packagesPath": "C:\\Users\\anton\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\anton\\OneDrive\\Desktop\\Shubham\\Cinematic\\CinematicLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/shubhamdhamane/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\anton\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/library-packs": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -38,6 +39,20 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -54,7 +69,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

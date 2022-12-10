@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "rgNEyILBIDdU8RDobe+WgnP0WAUG2aph2cgnKL1SEHcHL0YdKpsDpCZW0Vpk+H09ptJPZfAJcfaSFVbvs3YPyg==",
+  "dgSpecHash": "D8OIs6p5z5EBBVuxNgYfFWWH1rW1LB5/sXq/dZVlT/R1mp9ecdcJCRrts0FqEB6dBZqEidGvRkLUsQel8iM2mw==",
   "success": true,
-  "projectFilePath": "/Users/shubhamdhamane/Documents/cambrian/se2/CinematicLibrary/CinematicLibrary.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\anton\\OneDrive\\Desktop\\Shubham\\Cinematic\\CinematicLibrary\\CinematicLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anton\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
+    "C:\\Users\\anton\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\anton\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\anton\\.nuget\\packages\\mstest.testframework\\3.0.0\\mstest.testframework.3.0.0.nupkg.sha512",
+    "C:\\Users\\anton\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\anton\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

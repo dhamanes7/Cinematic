@@ -4,7 +4,7 @@ using Cinematic.ApiClient;
 namespace CinematiTest
 {
     [TestClass]
-    public class UnitTest1
+    public class ApiTest1
     {
 
 

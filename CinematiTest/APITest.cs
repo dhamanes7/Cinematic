@@ -1,7 +1,7 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using Cinematic.ApiClient;
+using CinematicLibrary.ApiClient;
 
-namespace CinematiTest
+namespace CinematicTest
 {
     [TestClass]
     public class ApiTest1

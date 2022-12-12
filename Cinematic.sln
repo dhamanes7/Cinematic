@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32811.315
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cinematic", "Cinematic\Cinematic.csproj", "{E4D04512-24B1-49B9-9FFE-6E4C84F95607}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cinematic", "Cinematic\Cinematic.csproj", "{E4D04512-24B1-49B9-9FFE-6E4C84F95607}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CinematicLibrary", "CinematicLibrary\CinematicLibrary.csproj", "{1CBD2DF9-B07C-46E0-B7EE-4C6FB059CC8F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CinematicLibrary", "CinematicLibrary\CinematicLibrary.csproj", "{1CBD2DF9-B07C-46E0-B7EE-4C6FB059CC8F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CinematiTest", "CinematiTest\CinematiTest.csproj", "{5F9D5BEA-FEF9-417D-B73E-25479B3E27ED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CinematicTest", "CinematiTest\CinematicTest.csproj", "{5F9D5BEA-FEF9-417D-B73E-25479B3E27ED}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

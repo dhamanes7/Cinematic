@@ -1,7 +1,17 @@
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection;
+using Cinematic;
+using Cinematic.Models;
+using CinematicLibrary.ApiClient;
+
 var builder = WebApplication.CreateBuilder(args);
+builder.Services.AddDbContext<Data>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("Data") ?? throw new InvalidOperationException("Connection string 'Data' not found.")));
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+builder.Services.AddScoped<MovieApiClient<Movie>>();
 
 var app = builder.Build();
 

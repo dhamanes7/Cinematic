@@ -17,9 +17,11 @@ namespace Cinematic.Controllers
         private MovieApiClient<Movie> _apiClient;
         private bool isFailed = false;
 
-        public IActionResult MoviesList()
+        public IActionResult MovieList()
         {
-
+/*            TempData["Error"] = isFailed;
+            if (isFailed)
+                return View();*/
             return View(AllMovies);
         }
 

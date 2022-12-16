@@ -16,4 +16,4 @@ namespace Cinematic
 
         public DbSet<Cinematic.Models.Movie> Movie { get; set; } = default!;
     }
-}
+    }

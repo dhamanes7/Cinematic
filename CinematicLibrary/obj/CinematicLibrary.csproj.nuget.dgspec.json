@@ -1,28 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/Users/gurpreetkaur/Documents/WEBSERVICES_API/Cinematic/CinematicLibrary/CinematicLibrary.csproj": {}
+    "/Users/shubhamdhamane/Documents/cambrian/se2/CinematicLibrary/CinematicLibrary.csproj": {}
   },
   "projects": {
-    "/Users/gurpreetkaur/Documents/WEBSERVICES_API/Cinematic/CinematicLibrary/CinematicLibrary.csproj": {
+    "/Users/shubhamdhamane/Documents/cambrian/se2/CinematicLibrary/CinematicLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/gurpreetkaur/Documents/WEBSERVICES_API/Cinematic/CinematicLibrary/CinematicLibrary.csproj",
+        "projectUniqueName": "/Users/shubhamdhamane/Documents/cambrian/se2/CinematicLibrary/CinematicLibrary.csproj",
         "projectName": "CinematicLibrary",
-        "projectPath": "/Users/gurpreetkaur/Documents/WEBSERVICES_API/Cinematic/CinematicLibrary/CinematicLibrary.csproj",
-        "packagesPath": "/Users/gurpreetkaur/.nuget/packages/",
-        "outputPath": "/Users/gurpreetkaur/Documents/WEBSERVICES_API/Cinematic/CinematicLibrary/obj/",
+        "projectPath": "/Users/shubhamdhamane/Documents/cambrian/se2/CinematicLibrary/CinematicLibrary.csproj",
+        "packagesPath": "/Users/shubhamdhamane/.nuget/packages/",
+        "outputPath": "/Users/shubhamdhamane/Documents/cambrian/se2/CinematicLibrary/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/gurpreetkaur/.nuget/NuGet/NuGet.Config"
+          "/Users/shubhamdhamane/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
           "/usr/local/share/dotnet/library-packs": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://dist.nuget.org/win-x86-commandline/latest/nuget.exe": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
@@ -44,9 +43,25 @@
               "target": "Package",
               "version": "[3.0.0, )"
             },
-            "Microsoft.Extensions.Configuration": {
+            "Microsoft.AspNetCore.Identity": {
               "target": "Package",
-              "version": "[7.0.0, )"
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.12, )"
+            },
+            "Microsoft.Extensions.Configuration.FileExtensions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.18.3, )"
             },
             "Newtonsoft.Json": {
               "target": "Package",

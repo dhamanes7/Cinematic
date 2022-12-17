@@ -3,12 +3,7 @@
 }
 @model List<Movie>
 
-@if ((bool)TempData["Error"]!)
-{
-    <h1 class="text-danger">Please check your internet connection!</h1>
-}
-else
-{
+
     <div class="container">
         <div class="row">
             @foreach (Movie movie in Model)
@@ -28,4 +23,3 @@ else
             }
         </div>
     </div>
-}

@@ -394,27 +394,27 @@
     ]
   },
   "packageFolders": {
-    "/Users/gurpreetkaur/.nuget/packages/": {}
+    "C:\\Users\\anton\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/gurpreetkaur/Documents/WEBSERVICES_API/Cinematic/CinematicLibrary/CinematicLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\anton\\OneDrive\\Desktop\\Shubham\\Cinematic\\CinematicLibrary\\CinematicLibrary.csproj",
       "projectName": "CinematicLibrary",
-      "projectPath": "/Users/gurpreetkaur/Documents/WEBSERVICES_API/Cinematic/CinematicLibrary/CinematicLibrary.csproj",
-      "packagesPath": "/Users/gurpreetkaur/.nuget/packages/",
-      "outputPath": "/Users/gurpreetkaur/Documents/WEBSERVICES_API/Cinematic/CinematicLibrary/obj/",
+      "projectPath": "C:\\Users\\anton\\OneDrive\\Desktop\\Shubham\\Cinematic\\CinematicLibrary\\CinematicLibrary.csproj",
+      "packagesPath": "C:\\Users\\anton\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\anton\\OneDrive\\Desktop\\Shubham\\Cinematic\\CinematicLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/gurpreetkaur/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\anton\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "/usr/local/share/dotnet/library-packs": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://dist.nuget.org/win-x86-commandline/latest/nuget.exe": {}
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
@@ -461,7 +461,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.100/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

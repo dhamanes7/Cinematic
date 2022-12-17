@@ -132,11 +132,29 @@ namespace LibraryTest
         Assert.AreEqual(2, store.GetAll().Count());
     }
 
+        [TestMethod]
+        public void TestGetWatchListByUserName2()
+        {
+            var storeWrapper = MockStoreWrapper.GetMock();
+            var store = storeWrapper.Object;
+            Assert.IsNotNull(store.GetWatchListByUserName(MockStoreWrapper.username));
+            [TestMethod]
+            public void TestDelete()
+            {
+                var storeWrapper = MockStoreWrapper.GetMock();
+                var store = storeWrapper.Object;
+                store.Delete(MockStoreWrapper.username, MockStoreWrapper.movieToDelete.name);
+                Assert.IsFalse(store.GetAll().Contains(MockStoreWrapper.movieToDelete));
+                Assert.AreEqual(2, store.GetAll().Count());
+            }
+            Assert.AreEqual(2, store.GetWatchListByUserName(MockStoreWrapper.username).Count);
+        }
 
 
 
 
-}
+
+    }
 
 }
 

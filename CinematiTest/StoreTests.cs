@@ -89,8 +89,20 @@ namespace LibraryTest
         }
     }
 
-    
-    [TestMethod]
+    [TestClass]
+    public class MovieControllerTest
+    {
+
+        [TestMethod]
+        public void TestGetAll()
+        {
+            var storeWrapper = MockStoreWrapper.GetMock();
+            var store = storeWrapper.Object;
+            Assert.IsNotNull(store.GetAll());
+            Assert.AreEqual(3, store.GetAll().Count());
+        }
+
+        [TestMethod]
     public void TestAdd()
     {
         var storeWrapper = MockStoreWrapper.GetMock();

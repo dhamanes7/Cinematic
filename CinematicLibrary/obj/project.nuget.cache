@@ -1,15 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "D8OIs6p5z5EBBVuxNgYfFWWH1rW1LB5/sXq/dZVlT/R1mp9ecdcJCRrts0FqEB6dBZqEidGvRkLUsQel8iM2mw==",
+  "dgSpecHash": "bVYTEbKOicW4hNGX8oVkfy60UWzFOCvplmTcwAapMugxobQ8bDzRtvyWOHCU5LaMrSbzftf+4g8lbnmFI+76pA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\anton\\OneDrive\\Desktop\\Shubham\\Cinematic\\CinematicLibrary\\CinematicLibrary.csproj",
+  "projectFilePath": "/Users/gurpreetkaur/Documents/WEBSERVICES_API/Cinematic/CinematicLibrary/CinematicLibrary.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\anton\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
-    "C:\\Users\\anton\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
-    "C:\\Users\\anton\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
-    "C:\\Users\\anton\\.nuget\\packages\\mstest.testframework\\3.0.0\\mstest.testframework.3.0.0.nupkg.sha512",
-    "C:\\Users\\anton\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
-    "C:\\Users\\anton\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+    "/Users/gurpreetkaur/.nuget/packages/microsoft.extensions.configuration/7.0.0/microsoft.extensions.configuration.7.0.0.nupkg.sha512",
+    "/Users/gurpreetkaur/.nuget/packages/microsoft.extensions.configuration.abstractions/7.0.0/microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "/Users/gurpreetkaur/.nuget/packages/microsoft.extensions.primitives/7.0.0/microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "/Users/gurpreetkaur/.nuget/packages/mstest.testframework/3.0.0/mstest.testframework.3.0.0.nupkg.sha512",
+    "/Users/gurpreetkaur/.nuget/packages/newtonsoft.json/13.0.2/newtonsoft.json.13.0.2.nupkg.sha512",
+    "/Users/gurpreetkaur/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
   ],
   "logs": []
 }

@@ -93,14 +93,24 @@ namespace LibraryTest
     public class MovieControllerTest
     {
 
-        [TestMethod]
-        public void TestGetAll()
-        {
-            var storeWrapper = MockStoreWrapper.GetMock();
-            var store = storeWrapper.Object;
-            Assert.IsNotNull(store.GetAll());
-            Assert.AreEqual(3, store.GetAll().Count());
-        }
+    [TestMethod]
+    public void TestGetAll()
+    {
+        var storeWrapper = MockStoreWrapper.GetMock();
+        var store = storeWrapper.Object;
+        Assert.IsNotNull(store.GetAll());
+        Assert.AreEqual(3, store.GetAll().Count());
+    }
+
+    [TestMethod]
+    public void TestMovieExists()
+    {
+        var storeWrapper = MockStoreWrapper.GetMock();
+        var store = storeWrapper.Object;
+        Assert.IsTrue(store.MovieExists("The Equalizer 3"));
+        Assert.IsFalse(store.MovieExists("Fast X"));
+    }
+
 
         [TestMethod]
     public void TestAdd()
